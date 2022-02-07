@@ -24,10 +24,13 @@ Private Chat: Users can private message one another. They can also send images a
 Users can use Chatalone in various ways as they like:
 - Asking nearby users for help via Mesh Chat.
 - Asking local users for directions or reccomendations via Mesh Chat.
+- Gossip anonymously in class.
 - Talking to nearby users via Mesh Chat when you're alone at a bar/concert/event.
 - Creating a chatroom to talk to others with similar interests.
 - Event Organizers can create a chatroom to allow for anonymous Q&A or feedback.
+- Lecturers/Teachers can create chatroom to let students answer questions anonymously.
 - Shopping Malls/Places of Interests/Pubic Transport can create a chatroom for people to give suggestions/feedback/complaint.
+- Military can use this application as a form of communication when there is no signal in the jungle. Additional set up is required to only allow communication to certain devices/personnel. 
 
 # Anonymity
 
