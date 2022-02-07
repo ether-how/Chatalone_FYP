@@ -2,6 +2,8 @@
 
 This is my Final Year Project in my final year of Bachelor of Engineering (Computer Science) with Honours in Nanyang Technological University which it was given a grade of A-.
 
+This project was then suggested to be implemented as a start-up by my professor. 
+
 # About Chatalone
 
 Chatalone is a cross-platform anonymous chat application that does not require the use of internet-connectivity and mobile cellular. 
